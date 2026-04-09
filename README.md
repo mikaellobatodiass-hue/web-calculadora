@@ -41,3 +41,25 @@ Uma calculadora simples, moderna e funcional desenvolvida com HTML, CSS e JavaSc
 ## 📌 Como usar
 
 1. Clone o repositório:
+
+
+
+git clone https://github.com/SEU-USUARIO/web-calculadora.git
+
+
+2. Abra o arquivo:
+
+index.html
+
+
+---
+
+## 📈 Objetivo do projeto
+
+Este projeto foi desenvolvido para praticar lógica de programação, manipulação do DOM e criação de interfaces com JavaScript.
+
+---
+
+## ⭐ Se gostou
+
+Deixe uma estrela no repositório 🚀
